@@ -1,3 +1,6 @@
+Git init #(nouveau fichier)
+Git pull [LIEN GITHUB]
+
 Git add .
 Git commit -m "[Nom de la sauvegarde]"
 git push origin main
